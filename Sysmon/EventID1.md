@@ -1,3 +1,4 @@
+<img width="1905" height="1077" alt="kali lab 2" src="https://github.com/user-attachments/assets/fd0f1bd8-e15b-4ab3-8452-c1e6b4c62b2e" />
 # Sysmon Event ID 1 - Process Creation
 
 ## Objective
